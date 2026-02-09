@@ -200,7 +200,7 @@
         .background4 {
             background-image: url(../imagens/background-2.jpg);
             background-size: cover;
-            background-position: center bottom;
+            background-position: center center;
             background-attachment: fixed;
             background-repeat: no-repeat;
             box-shadow: inset 0px 0px 6px 1px black;
